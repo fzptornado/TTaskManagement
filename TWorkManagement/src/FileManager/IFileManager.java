@@ -1,4 +1,4 @@
-package txtFileManager;
+package FileManager;
 
 import java.io.File;
 import java.io.FileNotFoundException;
