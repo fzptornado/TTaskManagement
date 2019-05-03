@@ -1,2 +1,2 @@
 # TTaskManagement
-a simple Project to manage tasks
+a Simple Project To Manage Tasks
